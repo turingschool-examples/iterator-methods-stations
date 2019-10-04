@@ -7,6 +7,9 @@
 5. Which arguments are required (for both the method and its callback)?
 6. Does the callback need a return value? If so, what needs to be returned?
 
+
+## Example 1:
+
 Given an array of countries, write a function that returns an array of all Asian countries.
 
 Ex:
@@ -68,6 +71,40 @@ returns:
     "capital": "Yerevan",
     "continentName": "Asia"
 },
+]
+*/
+```
+
+## Example 2:
+
+Given the same list of countries, find all countries with a population greater than 15,000,000.
+
+```js
+filterBigCountries(countries)
+/*
+returns:
+[
+  {
+      "countryCode": "AF",
+      "countryName": "Afghanistan",
+      "population": "29121286",
+      "capital": "Kabul",
+      "continentName": "Asia"
+  },
+  {
+      "countryCode": "AL",
+      "countryName": "Albania",
+      "population": "2986952",
+      "capital": "Tirana",
+      "continentName": "Europe"
+  },
+  {
+      "countryCode": "AM",
+      "countryName": "Armenia",
+      "population": "2968000",
+      "capital": "Yerevan",
+      "continentName": "Asia"
+  },
 ]
 */
 ```
