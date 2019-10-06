@@ -77,7 +77,7 @@ returns:
 
 ## Example 2:
 
-Given the same list of countries, find all countries with a population greater than 15,000,000.
+Given the same list of countries, find all countries with a population greater than 1,500,000.
 
 ```js
 filterBigCountries(countries)
