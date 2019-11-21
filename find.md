@@ -62,7 +62,7 @@ findFirstNorthAmericanCountry(countries) // => {
 ```
 ## Example 2:
 
-Given the previous array of countries, find the fist country with a capital that has a three-word name
+Given the previous array of countries, find the first country with a capital that has a three-word name
 
 ```js
 findThreeNameCapital(countries) // => {

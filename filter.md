@@ -26,7 +26,7 @@ var countries = [
   {
       "countryCode": "AL",
       "countryName": "Albania",
-      "population": "2986952",
+      "population": "29869520",
       "capital": "Tirana",
       "continentName": "Europe"
   },
@@ -47,7 +47,7 @@ var countries = [
   {
       "countryCode": "AM",
       "countryName": "Armenia",
-      "population": "2968000",
+      "population": "29680000",
       "capital": "Yerevan",
       "continentName": "Asia"
   },
@@ -94,14 +94,14 @@ returns:
   {
       "countryCode": "AL",
       "countryName": "Albania",
-      "population": "2986952",
+      "population": "29869520",
       "capital": "Tirana",
       "continentName": "Europe"
   },
   {
       "countryCode": "AM",
       "countryName": "Armenia",
-      "population": "2968000",
+      "population": "29680000",
       "capital": "Yerevan",
       "continentName": "Asia"
   },
