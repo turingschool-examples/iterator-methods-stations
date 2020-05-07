@@ -1,11 +1,3 @@
-# .find
-
-1. What does `.find` do?
-2. Is the original array modified?
-3. How many arguments does `.find` take?
-4. How many arguments does the _callback function_ take?
-5. Which arguments are required (for both the method and its callback)?
-6. Does the callback need a return value? If so, what needs to be returned?
 
 ## Example 1:
 Given an array of countries, write a function that returns the first listed country in North America
