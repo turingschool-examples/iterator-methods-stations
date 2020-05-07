@@ -1,12 +1,5 @@
 # .map
 
-1. What does `.map` do?
-2. Is the original array modified?
-3. How many arguments does `.map` take?
-4. How many arguments does the _callback function_ take?
-5. Which arguments are required (for both the method and its callback)?
-6. Does the callback need a return value? If so, what needs to be returned?
-
 ## Example 1:
 
 Given a list of countries, write a function that returns an array of strings with the country code and name
