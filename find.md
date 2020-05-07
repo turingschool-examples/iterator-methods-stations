@@ -1,4 +1,4 @@
-#find()
+# find()
 
 ## Example 1:
 Given an array of countries, write a function that returns the first listed country in North America
