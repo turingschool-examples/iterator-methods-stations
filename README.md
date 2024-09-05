@@ -11,6 +11,6 @@ You'll be with a partner in a breakout room to work through some practice proble
    `sort`
    `forEach`
 2. Open the markdown file (example: `filter.md`)
-3. Copy the data and prompt into a new REPL
+3. Copy the data and prompt into your array prototype methods scratchpad file in VS Code (within your SE-Mod2-exercises repo)
 4. Work through the exercises with your partner
 5. Repeat!
