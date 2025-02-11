@@ -8,9 +8,9 @@ You'll be with a partner in a breakout room to work through some practice proble
    `filter`
    `map`
    `reduce`
-   `sort`
    `forEach`
+   `sort`
 2. Open the markdown file (example: `filter.md`)
-3. Copy the data and prompt into your array prototype methods scratchpad file in VS Code (within your SE-Mod2-exercises repo)
+3. Copy the data and prompt into your array prototype methods scratchpad file in VS Code (within your mod2-sandbox repo)
 4. Work through the exercises with your partner
 5. Repeat!
